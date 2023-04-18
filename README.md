@@ -1,1 +1,3 @@
 # motivate
+
+`eb deploy <env>`
